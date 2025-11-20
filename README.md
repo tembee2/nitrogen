@@ -10,8 +10,14 @@ credit for the rice goes to YaKooLit :3
 # INSTALLATION
 To install make sure you have git installed
 
+To install git (on arch)
+```
+sudo pacman -S git
+```
+
 Then run:
 ```
+git clone https://github.com/tembee2/nitrogen.git
 cd nitrogen
 sh install.sh
 ```
