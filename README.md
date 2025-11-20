@@ -1,4 +1,4 @@
-# nitrogen
+# Nitrogen
 skin for yakoolit hyprland rice
 
 credit for the rice goes to YaKooLit :3
