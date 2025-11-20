@@ -1,7 +1,18 @@
 # nitrogen
-rice to make you go wow
+skin for yakoolit hyprland rice
 
-> [!IMPORTANT]
-> this is just my personal rice so it might not work on all distros.
-> 
-> it was made for arch so you should use it on that
+credit for the rice goes to YaKooLit :3
+
+# SCREENSHOTS
+![Fastfetch](https://raw.githubusercontent.com/tembee2/nitrogen/main/screenshots/Fastfetch.png)
+![Desktop](https://raw.githubusercontent.com/tembee2/nitrogen/main/screenshots/Desktop.png)
+
+# INSTALLATION
+To install make sure you have git installed
+
+Then run:
+```
+cd nitrogen
+sh install.sh
+```
+proceed to go through the installer.
